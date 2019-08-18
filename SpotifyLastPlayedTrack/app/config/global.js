@@ -6,7 +6,7 @@
 /*   By: Snkh <inquiries@snkh.me>                   +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/08/18 10:27:19 by Snkh         #+#   ##    ##    #+#       */
-/*   Updated: 2019/08/18 12:50:46 by Snkh        ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/08/18 13:03:55 by Snkh        ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -46,5 +46,5 @@ module.exports = {
   * default: user-read-private, user-read-email, user-read-recently-played
   */
   
-  scopes: ['user-read-recently-played'],
+  scopes: ['user-read-recently-played']
 }
